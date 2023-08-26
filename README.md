@@ -3,8 +3,10 @@
 - 👀 I’m interested in web dev :p
 
 - 🔭 I’m currently working on [To-Do](https://github.com/sid-lakhani/To-Do.git)
+
+- 🌱 I’m currently learning NextJS ;)
   
-- 🌱 I’m currently learning NextJS :)
+- 👶 I'm an amateur Garuda Linux user :)
   
 - 📫 How to reach me lakhani.siddhesh@gmail.com
 
