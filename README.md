@@ -8,7 +8,7 @@
   
 - 👶 I'm an amateur Garuda Linux user :)
   
-- 📫 How to reach me lakhani.siddhesh@gmail.com
+- 📫 How to reach me - lakhani.siddhesh@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
