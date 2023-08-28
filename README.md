@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid-lakhani" alt="sid-lakhani" /></a> </p>
-
 - 👀 I’m interested in web dev :p
 
 - 🔭 I’m currently working on [To-Do](https://github.com/sid-lakhani/To-Do.git)
