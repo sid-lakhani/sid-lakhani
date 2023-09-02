@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in web dev :p
 
-- 🔭 I’m currently finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git) 
+- 🔭 I’m currently finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git) . [Link to website](https://to-do-sidlakhani.vercel.app)
 
 - 🌱 I’m currently learning NextJS ;)
   
