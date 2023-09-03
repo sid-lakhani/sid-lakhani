@@ -6,7 +6,6 @@
 
 <p align='left'>
   <img alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
-</p>
 
 - 👀 I’m interested in web dev :p
 
@@ -17,6 +16,8 @@
 - 👶 I'm an amateur Garuda Linux user :)
   
 - 📫 How to reach me - lakhani.siddhesh@gmail.com
+
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
