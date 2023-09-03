@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋, I’m Siddhesh Lakhani! </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> </p>
-
+ <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+ 
 - 👀 I’m interested in web dev :p
 
 - 🔭 I’m currently finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git)! Link to website - [Link](https://to-do-sidlakhani.vercel.app)
@@ -11,6 +12,8 @@
 - 👶 I'm an amateur Garuda Linux user :)
   
 - 📫 How to reach me - lakhani.siddhesh@gmail.com
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +30,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-lakhani&" alt="sid-lakhani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-lakhani&" alt="sid-lakhani"/></p>
