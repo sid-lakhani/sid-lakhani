@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I’m Siddhesh Lakhani! </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> </p>
- <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
- 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+
 - 👀 I’m interested in web dev :p
 
 - 🔭 I’m currently finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git)! Link to website - [Link](https://to-do-sidlakhani.vercel.app)
