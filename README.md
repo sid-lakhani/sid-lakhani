@@ -1,7 +1,12 @@
 <h2 align="center">Hi 👋, I’m Siddhesh Lakhani! </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> </p>
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> 
+</p>
+
+<p align='center'>
+  <img alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+</p>
 
 - 👀 I’m interested in web dev :p
 
@@ -13,12 +18,10 @@
   
 - 📫 How to reach me - lakhani.siddhesh@gmail.com
 
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siddhesh-lakhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siddhesh Lakhani" height="30" width="40" /></a>
-<a href="https://instagram.com/sidlakhani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidlakhani_" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/siddhesh-lakhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siddhesh Lakhani" height="30" width="40" /></a>
+  <a href="https://instagram.com/sidlakhani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidlakhani_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
