@@ -42,5 +42,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-lakhani&" alt="sid-lakhani"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-lakhani&" alt="sid-lakhani"/>
 </p>
