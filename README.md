@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> 
 </p>
 
-<p align='left'>
+<p align='center'>
   <img alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 </p>
 
