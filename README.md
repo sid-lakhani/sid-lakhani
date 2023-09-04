@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in web dev :p
 
-- 🔭 I finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git)! Link to website - [Link](https://to-do-sidlakhani.vercel.app)
+- 📎 I finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git)! Link to website - [Link](https://to-do-sidlakhani.vercel.app)
 
 - 🌱 I’m currently learning NextJS ;)
   
