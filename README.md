@@ -42,6 +42,3 @@
   <a href="https://education.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/180px-RStudio_logo_flat.svg.png" alt="RStudio" width="100" height="40"/> </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-lakhani&" alt="sid-lakhani"/>
-</p>
