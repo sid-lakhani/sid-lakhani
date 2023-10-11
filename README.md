@@ -1,8 +1,6 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px">, I’m Siddhesh Lakhani! </h2>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="sid-lakhani" /> 
-</p>
+
 
 <p align='left'>
   <img alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
