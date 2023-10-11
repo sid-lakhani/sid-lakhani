@@ -39,6 +39,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
   <a href="https://education.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/180px-RStudio_logo_flat.svg.png" alt="RStudio" width="100" height="40"/> </a> 
 </p>
+
 ---
 
 |Stats |Streak |Languages
