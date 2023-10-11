@@ -41,4 +41,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
   <a href="https://education.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/180px-RStudio_logo_flat.svg.png" alt="RStudio" width="100" height="40"/> </a> 
 </p>
+---
 
+|Stats |Streak |Languages
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sid-lakhani&theme=gruvbox)](https://github.com/sid-lakhani/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sid-lakhani&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sid-lakhani/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sid-lakhani&theme=gruvbox)](https://github.com/sid-lakhani/)|
+
+---
