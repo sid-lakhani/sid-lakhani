@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px">, I’m Siddhesh Lakhani! </h2>
+<h2 align="center">Hi, I’m Siddhesh Lakhani! </h2>
 
 
 
