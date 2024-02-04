@@ -44,6 +44,6 @@
 
 |Stats |Streak |Languages
 |---|---|---|
-|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sid-lakhani&theme=gruvbox)](https://github.com/sid-lakhani/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sid-lakhani&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sid-lakhani/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sid-lakhani&theme=gruvbox)](https://github.com/sid-lakhani/)|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sid-lakhani)](https://github.com/sid-lakhani/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sid-lakhani&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sid-lakhani/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sid-lakhani)](https://github.com/sid-lakhani/)|
 
 ---
