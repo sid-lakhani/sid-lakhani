@@ -3,17 +3,14 @@
 
 
 <p align='left'>
-  <img alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
 - 👀 I’m interested in web dev :p
 
-- 📎 I finished my first project [To-Do](https://github.com/sid-lakhani/To-Do.git)! Link to website - [Link](https://to-do-sidlakhani.vercel.app)
+- 🌱 I’m currently learning **Astro** ;)
 
-- 🌱 I’m currently learning NextJS ;)
+- 🔭 I’m currently working on [**TaskCanvas**](https://github.com/sid-lakhani/TaskCanvas)
   
-- 👶 I'm an amateur Garuda Linux user :)
-  
-- 📫 How to reach me - lakhani.siddhesh@gmail.com
+- 📫 How to reach me - **lakhani.siddhesh@gmail.com**
 
   </p>
 
