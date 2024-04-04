@@ -7,8 +7,6 @@
 - 👀 I’m interested in web dev :p
 
 - 🌱 I’m currently learning **Astro** ;)
-
-- 🔭 I’m currently working on [**TaskCanvas**](https://github.com/sid-lakhani/TaskCanvas)
   
 - 📫 How to reach me - **lakhani.siddhesh@gmail.com**
 
