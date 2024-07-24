@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in web dev :p
 
-- 🌱 I’m currently learning **Astro** ;)
+- 🌱 I’m currently improving on **NextJS** :)
   
 - 📫 How to reach me - **lakhani.siddhesh@gmail.com**
 
