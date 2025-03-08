@@ -10,7 +10,7 @@
   
 - 📫 You can reach me at: <strong>lakhani.siddhesh@gmail.com</strong>
 
-- 🌐 Check out my portfolio: [sidlakhani.tech](https://sidlakhani.tech) 
+- 🌐 Check my portfolio: [sidlakhani.tech](https://sidlakhani.tech) 
 
   </p>
 
