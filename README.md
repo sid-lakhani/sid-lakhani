@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I’m Siddhesh Lakhani! </h1>
 
-## 🔥 About Me  
+## 🔥 About Me:
 - 💡 Passionate about **building, automating, and optimizing** digital experiences.  
 - 🚀 Exploring the latest in **Next.js, FastAPI, and self-hosting** for scalable applications.  
 - 🔍 Love working on **AI-powered tools, real-time systems, and efficient backend solutions**.  
