@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Siddhesh Lakhani! </h1>
+<h1 align="center">👋 Hey, I am Siddhesh Lakhani! </h1>
 
 # 🔥 About Me:
 - 💡 Passionate about **building, automating, and optimizing** digital experiences.  
