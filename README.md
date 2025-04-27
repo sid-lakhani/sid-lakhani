@@ -5,7 +5,8 @@
 - 🚀 Exploring the latest in **Next.js, FastAPI, and self-hosting** for scalable applications.  
 - 🔍 Love working on **AI-powered tools, real-time systems, and efficient backend solutions**.  
 - 🛠️ Constantly experimenting with **new frameworks, databases, and cloud technologies**.  
-- 🎯 Striving to bridge the gap between **performance, security, and user experience**.  
+- 🎯 Striving to bridge the gap between **performance, security, and user experience**.
+- 📈 **Label Jui Lakhani** - a bespoke freelance project where I engineered a tailor-made digital presence from scratch. [Explore](https://labeljuilakhani.in) 
 - 💬 Open to discussions, collaborations, and sharing knowledge with like-minded devs.  
 
 🌐 **Check out my portfolio:** [sidlakhani.tech](https://sidlakhani.tech)
