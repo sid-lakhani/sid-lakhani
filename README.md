@@ -1,15 +1,11 @@
 <h1 align="center">👋 Hey, I'm Siddhesh Lakhani!</h1>
 
 # 🔥 About Me:
-- 💡 Passionate about **building, automating, and optimizing** digital experiences.  
-- 🚀 Exploring the latest in **Next.js, FastAPI, and self-hosting** for scalable applications.  
-- 🔍 Love working on **AI-powered tools, real-time systems, and efficient backend solutions**.  
-- 🛠️ Constantly experimenting with **new frameworks, databases, and cloud technologies**.  
-- 🎯 Striving to bridge the gap between **performance, security, and user experience**.
-- 📈 **Label Jui Lakhani** - a bespoke freelance project where I engineered a tailor-made digital presence from scratch. [Explore](https://labeljuilakhani.in) 
-- 💬 Open to discussions, collaborations, and sharing knowledge with like-minded devs.  
-
-🌐 **Check out my portfolio:** [sidlakhani.in](https://sidlakhani.in)
+- 🚀 Exploring the latest in Next.js, FastAPI, and self-hosting for scalable applications.
+- 💻 Developer & System Enthusiast | Building efficient systems with a focus on Web Dev, Linux and Open Source.
+- 📣 Topics I Love: Linux internals, self-hosting, and anything that improves system performance.
+- ✉️ Contact: Get in touch at lakhani.siddhesh@gmail.com
+- 🌐 Portfolio: [sidlakhani.in](https://sidlakhani.in)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidlakhani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhesh-lakhani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sidlakhani_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakhani.siddhesh@gmail.com) 
