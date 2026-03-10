@@ -1,25 +1,93 @@
-<h1 align="center">👋 Hey, I'm Siddhesh Lakhani!</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Siddhesh%20Lakhani&textBg=false&fontColor=fff&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20FOSS%20%E2%80%A2%20Freelance%20Developer&reversal=true" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=sid-lakhani&label=Profile+Views&color=00b4d8&style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/sid-lakhani?label=Followers&style=flat-square&color=00b4d8&labelColor=0d1117" />
+</div>
 
-# About Me:
-- 🚀 Exploring the latest in Next.js, FastAPI, and self-hosting for scalable applications.
-- 💻 Developer & System Enthusiast | Building efficient systems with a focus on Web Dev, Linux and Open Source.
-- 📣 Topics I Love: Linux internals, self-hosting, and anything that improves system performance.
-- ✉️ Contact: Get in touch at lakhani.siddhesh@gmail.com
-- 🌐 Portfolio: [sidlakhani.in](https://sidlakhani.in)
+<br/>
 
-# Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidlakhani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhesh-lakhani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sidlakhani_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakhani.siddhesh@gmail.com) 
+---
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## >> whoami
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sid-lakhani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sid-lakhani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sid-lakhani&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+```yaml
+name        : Siddhesh Lakhani
+role        : Full Stack Developer
+location    : Mumbai, India
+distro      : Arch Linux (btw, I use Arch)
+wm          : DWM — riced & suckless
+currently:
+  learning  : Linux internals, K8s in prod
+  obsessing : self-hosting everything possible
+values:
+  - Minimalism in code AND design
+  - Ship fast, optimize later
+  - Own your stack, own your data
+contact     : lakhani.siddhesh@gmail.com
+portfolio   : sidlakhani.in
+```
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sid-lakhani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## >> stats
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=sid-lakhani&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=0d1117" />
+</div>
+
+---
+
+## >> activity
+
+<div align="center">
+
+[![Siddhesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sid-lakhani&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d815&hide_border=true&custom_title=Commit+Activity+—+sid-lakhani&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## >> stack
+
+```
+frontend   →  Next.js  React  TypeScript  TailwindCSS  Astro
+backend    →  FastAPI  Node.js  Python  Bun
+databases  →  PostgreSQL  MySQL  Supabase  Prisma  MariaDB  Firebase
+infra      →  Docker  Kubernetes  Nginx  Cloudflare  Vercel  Vultr
+ml / cv    →  TensorFlow  PyTorch  Keras  scikit-learn  OpenCV
+systems    →  Linux  Bash  Rust  C++  Git
+```
+
+---
+
+## >> goals --year=2025
+
+```
+ ████████░░░░░░░░░░  linux kernel internals       [40%]
+ ██████████████████  self-hosting everything      [90%]
+ ████░░░░░░░░░░░░░░  touch grass                  [20%]
+ ██░░░░░░░░░░░░░░░░  sleep 8 hours                [10%]
+```
+
+---
+
+## >> contact
+
+<div align="center">
+<br/>
+
+<a href="https://sidlakhani.in"><img src="https://img.shields.io/badge/portfolio-sidlakhani.in-00b4d8?style=flat-square&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/siddhesh-lakhani"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://x.com/sidlakhani_"><img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/sidlakhani_"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:lakhani.siddhesh@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+```
+open to:  collabs · freelance · interesting problems · people who self-host their own stuff
+```
+
+<br/>
+</div>
