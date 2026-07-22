@@ -18,7 +18,7 @@ location    : Mumbai, India
 distro      : Arch Linux (btw, I use Arch)
 wm          : DWM — riced & suckless
 currently:
-  learning  : Linux internals, K8s in prod
+  learning  : Linux internals, RAG systems
   obsessing : self-hosting everything possible
 values:
   - Minimalism in code AND design
@@ -57,17 +57,6 @@ databases  →  PostgreSQL  MySQL  Supabase  Prisma  MariaDB  Firebase
 infra      →  Docker  Kubernetes  Nginx  Cloudflare  Vercel  Vultr
 ml / cv    →  TensorFlow  PyTorch  Keras  scikit-learn  OpenCV
 systems    →  Linux  Bash  Rust  C++  Git
-```
-
----
-
-## >> goals --year=2025
-
-```
- ████████░░░░░░░░░░  linux kernel internals       [40%]
- ██████████████████  self-hosting everything      [90%]
- ████░░░░░░░░░░░░░░  touch grass                  [20%]
- ██░░░░░░░░░░░░░░░░  sleep 8 hours                [10%]
 ```
 
 ---
