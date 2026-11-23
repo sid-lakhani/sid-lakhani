@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid-lakhani&hide_border=true&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&stroke=00000000" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=sid-lakhani&hide_border=true&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&stroke=00000000" height="150" alt="GitHub contribution streak stats"/>
 </div>
 
 ---
